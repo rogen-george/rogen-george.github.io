@@ -9,4 +9,6 @@ I am primarily intrested in Graphical Models and Deep Learning. I am also intere
 
 At Oregon State, I am a Teaching Assistant for CS Senior Software Engineering Project where I help senior students in their Capstone Projects. I have also designed and taught : CS 325 Analysis Of Algorithms during the Summer of 2020.
 
+Please find my updated resume [here](./resume.pdf) 
+
 
