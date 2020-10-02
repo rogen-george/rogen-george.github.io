@@ -1,6 +1,6 @@
-###
 
-###
+
+
 
 I am graduate student in Oregon State University advised by Dr. Weng Keen Wong. My research focuses on applying Machine Learning techniques on Compositional Data. Compositional Data is a specific type of data where the sum of the features is always a constant. I find it very intresting to apply Machine Learning techniques to recognize and learn patterns in Data.
 
