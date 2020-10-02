@@ -1,1 +1,1 @@
-[Projects](./projects.html) 
+# Projects #
